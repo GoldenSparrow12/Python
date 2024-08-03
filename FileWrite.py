@@ -1,0 +1,5 @@
+f = open("Harshit.txt","r")
+# f.write("thunk you")
+print (f.read())
+# print(c)
+f.close()
